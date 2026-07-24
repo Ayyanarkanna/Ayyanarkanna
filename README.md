@@ -103,6 +103,12 @@
   <img src="https://leetcard.jacoblin.cool/Ayyanarkanna?theme=dark&font=Baloo&ext=heatmap" />
 </p>
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ### 💼 Experience
