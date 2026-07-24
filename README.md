@@ -1,3 +1,33 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=6f42c1&text=Ayyanar%20Kanna%20P&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Lifelong%20Learner&descAlignY=65"/>
+
+<br><br>
+
+<h1>💻 Full Stack Developer</h1>
+
+<hr>
+
+<img src="https://img.shields.io/badge/PYTHON-DEVELOPER-3776AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JAVA-DEVELOPER-ED8B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FULL_STACK-DEVELOPER-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN_SOURCE-CONTRIBUTOR-181717?style=for-the-badge" />
+
+<br><br>
+
+<hr>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Ayyanarkanna&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
+
+</div>
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Ayyanar Kanna P</h1>
 <h3 align="center">Full Stack Developer | Web Developer | Python & Java Enthusiast</h3>
 
