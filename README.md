@@ -1,100 +1,43 @@
-<h1 align="center">Hi 👋, I'm Ayyanar Kanna P</h1>
-<h3 align="center">Full Stack Developer | Web Developer | Python & Java Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+Java+%7C+C%2B%2B+Developer;Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
+# Ayyanar Kanna P
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayyanarkanna&label=Profile%20Views&color=blue&style=flat" alt="Ayyanarkanna" />
-  <img src="https://img.shields.io/github/followers/Ayyanarkanna?label=Followers&style=social" alt="Followers" />
-</p>
+### Full Stack Developer 💻
 
----
+<a href="https://www.linkedin.com/in/ayyanar-kanna-731747323/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 🧑‍💻 About Me
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-- 🎓 Web Developer | Python | Java | C++ | Full Stack Development
-- 💼 Currently interning at **DigiSailor**
-- 📍 Based in Thoothukudi, Tamil Nadu, India
-- 📫 Reach me at **ayyanarkanna74@gmail.com**
-- 📱 Phone: **+91 9489639725**
-- ⚡ Fun fact: I love solving problems on LeetCode!
+<a href="https://leetcode.com/u/Ayyanarkanna/">
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
----
+<a href="https://www.instagram.com/____maya____kannan____/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-### 🌐 Connect with Me
+<a href="mailto:ayyanarkanna74@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayyanar-kanna-731747323/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/Ayyanarkanna/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.instagram.com/____maya____kannan____/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:ayyanarkanna74@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=Ayyanarkanna&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayyanarkanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayyanarkanna&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayyanarkanna&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayyanarkanna&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-### 🏆 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcode-stats-two-omega.vercel.app/api?username=Ayyanarkanna&theme=dark" alt="LeetCode Stats" />
-</p>
-
----
-
-### 💼 Experience
-
-**Intern @ DigiSailor**
-Working on real-world web and full stack development projects, strengthening hands-on skills in front-end and back-end technologies.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<h3 align="center">Thanks for visiting my profile! 🚀 Feel free to connect with me.</h3>
+```yaml
+Name      : Ayyanar Kanna P
+Role      : Full Stack Developer
+Company   : DigiSailor Intern
+Location  : Tamil Nadu, India
+Languages : Python, Java, C++
+Learning  : React, Node.js, Full Stack Development
