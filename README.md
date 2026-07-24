@@ -106,9 +106,18 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
+<p align="center">
+  🔥 Solving LeetCode problems every day and growing one step at a time.
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Ayyanarkanna/">
+    <img src="https://img.shields.io/badge/LeetCode-Ayyanarkanna-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 ---
 
 ### 💼 Experience
