@@ -104,11 +104,11 @@
 </p>
 
 ## 🐍 Contribution Activity
-
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ayyanarkanna/Ayyanarkanna/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<a href="https://leetcode.com/u/Ayyanarkanna/">
+  <img src="https://leetcard.jacoblin.cool/Ayyanarkanna?theme=dark&font=Baloo&ext=heatmap" />
+</a>
 
 </div>
 ---
