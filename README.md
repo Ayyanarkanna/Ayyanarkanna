@@ -102,12 +102,11 @@ Interests :
 
 ## 🏆 LeetCode Stats
 
-<div align="center">
 
-<img src="https://leetcode-stats-two-omega.vercel.app/api?username=Ayyanarkanna&theme=dark"/>
 
-</div>
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Ayyanarkanna?theme=dark&font=Baloo&ext=heatmap" />
+</p>
 ---
 
 ## 💼 Experience
