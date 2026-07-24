@@ -2,9 +2,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=6f42c1&text=Ayyanar%20Kanna%20P&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Lifelong%20Learner&descAlignY=65"/>
 
-<br><br>
 
 <h1>💻 Full Stack Developer</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+Java+%7C+C%2B%2B+Developer;Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
 <hr>
 
@@ -28,19 +31,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Ayyanar Kanna P</h1>
-<h3 align="center">Full Stack Developer | Web Developer | Python & Java Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+Java+%7C+C%2B%2B+Developer;Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayyanarkanna&label=Profile%20Views&color=blue&style=flat" alt="Ayyanarkanna" />
-  <img src="https://img.shields.io/github/followers/Ayyanarkanna?label=Followers&style=social" alt="Followers" />
-</p>
-
----
 
 ### 🧑‍💻 About Me
 
